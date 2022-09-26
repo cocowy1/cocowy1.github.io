@@ -250,6 +250,10 @@ a:active {
   content: "Computer Vision and Pattern Recognition Workshops (CVPRW), "
 }
 
+#paper .eccvw::before {
+  content: "European Conference on Computer Vision Workshops (ECCVW), "
+}
+
 #paper .none::before {
   content: ""
 }
