@@ -254,6 +254,10 @@ a:active {
   content: "European Conference on Computer Vision Workshops (ECCVW), "
 }
 
+#paper .icml::before {
+  content: "International Conference on Machine Learning (ICML) , "
+}
+
 #paper .none::before {
   content: ""
 }
