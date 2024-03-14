@@ -258,6 +258,10 @@ a:active {
   content: "International Conference on Machine Learning (ICML) , "
 }
 
+#paper .iclr::before {
+  content: "International Conference on Learning Representations (ICLR) , "
+}
+
 #paper .neurips::before {
   content: "Neural Information Processing Systems (NeurIPS) , "
 }
