@@ -266,6 +266,10 @@ a:active {
   content: "Neural Information Processing Systems (NeurIPS) , "
 }
 
+#paper .acmmm::before {
+  content: "ACM Multimedia Conference (ACMMM) , "
+}
+
 #paper .none::before {
   content: ""
 }
