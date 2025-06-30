@@ -1,5 +1,5 @@
 # Personal Website
 
-http://chxy95.github.io/
+http://yunwang.github.io/
 
-This project refers to http://chaofengc.github.io/.
+This project refers to http://chxy95.github.io/.
