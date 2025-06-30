@@ -246,6 +246,9 @@ a:active {
 #paper .eccv::before {
   content: "European Conference on Computer Vision (ECCV), "
 }
+#paper .ral::before {
+  content: "IEEE Robotics and Automation Letters (RAL), "
+}
 
 
 #paper .iccv::before {
