@@ -286,6 +286,9 @@ a:active {
 #paper .tmm::before{
   content: "IEEE Transactions on Multimedia (TMM), "
 }
+#paper .tcsvt::before{
+  content: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), "
+}
 
 #paper .cvprw::before {
   content: "Computer Vision and Pattern Recognition Workshops (CVPRW), "
